@@ -1,0 +1,6 @@
+requests==2.18.4
+vk_api==10.1
+Pillow==5.4.1
+beautifulsoup4==4.7.1
+python_dateutil==2.7.5
+PyYAML==3.13
